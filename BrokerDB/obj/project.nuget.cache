@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNU831E5OZaBvMA1you9qINc4A3Sf0TDdo59wGZ/GjUF3Smzjb6qhK4dzoAHqoFXtjM4WQOQ7c8THR3s2mobsw==",
+  "success": true,
+  "projectFilePath": "D:\\CoursesManagementApp\\BrokerDB\\BrokerDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola-PC\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Nikola-PC\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Nikola-PC\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Nikola-PC\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Nikola-PC\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.csproj.AssemblyReference.cache
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.AssemblyInfoInputs.cache
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.AssemblyInfo.cs
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.csproj.CoreCompileInputs.cache
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\ControllerAP.deps.json
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\ControllerAP.dll
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\ControllerAP.pdb
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\BrokerDB.dll
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\Domain.dll
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\BrokerDB.pdb
+D:\CoursesManagementApp\ControllerAP\bin\Debug\net6.0\Domain.pdb
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.csproj.CopyComplete
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.dll
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\refint\ControllerAP.dll
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ControllerAP.pdb
+D:\CoursesManagementApp\ControllerAP\obj\Debug\net6.0\ref\ControllerAP.dll

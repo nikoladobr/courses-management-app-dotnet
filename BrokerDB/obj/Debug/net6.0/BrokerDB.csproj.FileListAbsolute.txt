@@ -1,0 +1,15 @@
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.csproj.AssemblyReference.cache
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.AssemblyInfoInputs.cache
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.AssemblyInfo.cs
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.csproj.CoreCompileInputs.cache
+D:\CoursesManagementApp\BrokerDB\bin\Debug\net6.0\BrokerDB.deps.json
+D:\CoursesManagementApp\BrokerDB\bin\Debug\net6.0\BrokerDB.dll
+D:\CoursesManagementApp\BrokerDB\bin\Debug\net6.0\BrokerDB.pdb
+D:\CoursesManagementApp\BrokerDB\bin\Debug\net6.0\Domain.dll
+D:\CoursesManagementApp\BrokerDB\bin\Debug\net6.0\Domain.pdb
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.csproj.CopyComplete
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.dll
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\refint\BrokerDB.dll
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\BrokerDB.pdb
+D:\CoursesManagementApp\BrokerDB\obj\Debug\net6.0\ref\BrokerDB.dll

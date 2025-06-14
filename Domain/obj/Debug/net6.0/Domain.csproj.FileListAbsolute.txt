@@ -1,0 +1,12 @@
+D:\CoursesManagementApp\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\CoursesManagementApp\Domain\bin\Debug\net6.0\Domain.dll
+D:\CoursesManagementApp\Domain\bin\Debug\net6.0\Domain.pdb
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.dll
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\Domain.pdb
+D:\CoursesManagementApp\Domain\obj\Debug\net6.0\ref\Domain.dll
