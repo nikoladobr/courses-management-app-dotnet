@@ -91,4 +91,4 @@ This project is provided for educational and learning purposes.
 ## 👤 Author
 
 - GitHub: [@nikoladobr](https://github.com/nikoladobr)  
-- Academic year: 2023/2024
+- Academic year: 2024/2025
